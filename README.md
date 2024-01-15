@@ -44,8 +44,12 @@ Las pistas se pueden comprar desde el menú principal o mientras se está jugand
 5. Finalmente, para ejecutar el juego, abrir la terminal y ejecutar: `python <path-a-main.py>/main.py`
 
 ## Miembros del grupo
-- Alan Valdevenito
-- Bruno Ortielli
-- Juan Francisco Gulden
-- Brayan Ricaldi
-- Iñaki Llorens
+
+| Integrante        | Usuario Git     |
+|-------------------|-----------------|
+| Alan Valdevenito  | AlanValdevenito |
+| Bruno Ortielli    | Brubrux         |
+| Brayan Ricaldi    | Brayan-Ric      |
+| Juan Gulden       | jfgulden        |
+| Iñaki Llorens     | iinaki          |
+
